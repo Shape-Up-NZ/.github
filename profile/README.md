@@ -1,5 +1,8 @@
 <h1 align="center">
 Shape Up App
+  
+ <p align="center"><a href="https://shape-up.miguelemmara.me" target="_blank"><img src="https://raw.githubusercontent.com/Shape-Up-NZ/.github/main/logo/shape-up-logo.png" width="200"></a></p>
+  
 </h1>
 <p align="center">
 MongoDB, Expressjs, React/Redux, Nodejs
